@@ -1,3 +1,4 @@
 - figma
 - [SVG viewer](https://svgviewer.dev/svg-to-png)
 - [Cobalt](https://cobalt.tools/)
+- [advice on startups(gosh I wanna make one so bad)](https://www.paulgraham.com/startupideas.html)
