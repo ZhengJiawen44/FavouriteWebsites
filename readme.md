@@ -1,4 +1,4 @@
 - figma
 - [SVG viewer, used this one to make UI for my esp32 project](https://svgviewer.dev/svg-to-png)
-- [Cobalt,a million users, aesthetic, fast webapp that does what it claims](https://cobalt.tools/)
+- [Cobalt, a million users, aesthetic, fast website that does what it claims](https://cobalt.tools/)
 - [advice on startups(gosh I wanna make one so bad)](https://www.paulgraham.com/startupideas.html)
