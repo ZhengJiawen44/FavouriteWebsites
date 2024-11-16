@@ -3,3 +3,4 @@
 - [Cobalt, a million users, aesthetic, fast website that does what it claims](https://cobalt.tools/)
 - [advice on startups(gosh I wanna make one so bad)](https://www.paulgraham.com/startupideas.html)
 - [free icons!] (https://tabler.io/icons)
+- [free professional looking company logos](https://www.svgrepo.com/)
